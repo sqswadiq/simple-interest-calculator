@@ -1,1 +1,1 @@
-npm create vite@latest simpleinterst -- --template react
+A simple interest calculator using React
